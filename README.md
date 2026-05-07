@@ -32,12 +32,12 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 
-- May 26th - 28th 2026: [13th SECPPS Workshop](./kit26) (Community Edition) at Karlsruhe Institute of Technology, DE
-- February 2026: [12th SECPPS Workshop](./se26) (Conference Edition) co-located with SE 2026 at University of Bern, Switzerland 
+- ~~May 26th - 28th 2026: [13th SECPPS Workshop](./kit26) (Community Edition) at Karlsruhe Institute of Technology, DE~~ -- CANCELED!
 
 --- 
 
 # Preceding Workshop Editions:
+  - [12th SECPPS Workshop](./se26) (Conference Edition) co-located with SE 2026 at University of Bern, CH 
   - [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT 
   - [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
   - [9th SECPPS Workshop](./se25) co-located with SE 2025 at KIT Karlsruhe, DE
