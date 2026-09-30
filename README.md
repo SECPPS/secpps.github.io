@@ -32,6 +32,7 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 
+- [13th SECPPS Workshop](./se27) co-located with [SE2027](https://se2027.cs.tu-dortmund.de/) at Technische Universität Dortmund, DE
 - ~~May 26th - 28th 2026: [13th SECPPS Workshop](./kit26) (Community Edition) at Karlsruhe Institute of Technology, DE~~ -- CANCELED!
 
 --- 
